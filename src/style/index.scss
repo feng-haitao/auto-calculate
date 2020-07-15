@@ -1,0 +1,25 @@
+#app {
+    .el-table {
+        .el-input-number {
+            width: 110px;
+
+            .el-input__inner {
+                text-align: right;
+                padding-left: 5px;
+                padding-right: 5px;
+            }
+
+            .el-input.is-disabled .el-input__inner {
+                cursor: default;
+                color: #999;
+            }
+        }    
+    }
+    .el-table .cell, .el-table--border td:first-child .cell, .el-table--border th:first-child .cell {
+        padding-left: 0;
+    }
+    .el-textarea.is-disabled .el-textarea__inner {
+        cursor: default;
+        color: #999;
+    }
+}
