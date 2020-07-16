@@ -2,7 +2,8 @@
   <div id="app">
     <div id="nav">
       <router-link to="/">简单应用</router-link> |
-      <router-link to="/PayableTax">复杂场景</router-link>
+      <router-link to="/PayableTax">复杂场景</router-link> |
+      <a href="#" @click="openDoc">文档</a>
     </div>
     <router-view/>
   </div>
@@ -10,7 +11,12 @@
 
 <script>
 export default {
-    name: 'App'
+    name: 'App',
+    methods: {
+      openDoc() {
+        window.open('http://autocal.fenghaitao.net/doc/AutoCalculateV1.0.0使用手册.pdf', 'autoCalculate');
+      }
+    }
 };
 </script>
 
