@@ -2,7 +2,7 @@
 AutoCalculate 是表格复杂运算的解决方案，可以让你省掉成百上千行的计算逻辑代码，从此写代码就像写 Excel 公
 式一般简单。 
 
-### [Demo](http://autocal.fenghaitao.net) | [文档](http://autocal.fenghaitao.net/doc/AutoCalculateV1.0.0使用手册.pdf)
+### [Demo](http://autocal.fenghaitao.net) | [文档](http://www.fenghaitao.net/?p=113)
 
 ![image](http://autocal.fenghaitao.net/img/salary.png)
 
