@@ -14,7 +14,7 @@ export default {
     name: 'App',
     methods: {
       openDoc() {
-        window.open('http://autocal.fenghaitao.net/doc/AutoCalculateV1.0.0使用手册.pdf', 'autoCalculate');
+        window.open('http://www.fenghaitao.net/?p=113', 'autoCalculate');
       }
     }
 };
