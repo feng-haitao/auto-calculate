@@ -1,6 +1,5 @@
 # auto-calculate
-AutoCalculate 是表格复杂运算的解决方案，可以让你省掉成百上千行的计算逻辑代码，从此写代码就像写 Excel 公
-式一般简单。 
+AutoCalculate 是表格复杂运算的解决方案，让你的计算逻辑可维护，帮你省掉成百上千行的计算逻辑代码，告别硬编码，拥抱需求变化。
 
 ### [Demo](http://autocal.fenghaitao.net) | [文档](http://www.fenghaitao.net/autocalculate-user-manual)
 
